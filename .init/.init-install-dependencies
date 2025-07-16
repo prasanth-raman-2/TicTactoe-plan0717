@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/TicTactoe-plan0717/Tic_Tac_Toe_Web_Application_Container"
+}
